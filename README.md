@@ -2,26 +2,25 @@
 
 I'm Daksh Joshi😉, Web Developer 👨🏻‍💻 from India. I'm an UI Designer and mostly like Frontend Development.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Web+enthusiast ;Javascript+developer;Passionate+about+Video+Editing+&+Designing;User+Interface+Designer;Tech+Entrepreneur)](https://git.io/typing-svg)
+### Little roles about me.
+Web enthusiast, Javascript developer, Passionate about Video Editing & Designing, User Interface Designer & Tech Entrepreneur
 
 ### How to reach me: 
 <a href="mailto: dakshcoodes@gmail.com">
-<img src="https://img.shields.io/badge/-dakshcoodes%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/dakshcodes/">   <img src="https://img.shields.io/badge/@dakshcodes_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  </a>  <a  href="https://www.dakshcodes.com/"><img src="https://img.shields.io/badge/dakshjoshi.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-dakshcoodes%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/dakshcodes/">   <img src="https://img.shields.io/badge/@dakshcodes_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  </a>  <a  href="https://www.dakshjoshi.com/"><img src="https://img.shields.io/badge/dakshjoshi.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
-- 💼 I’m pursuing a <strong>MSc Computing degree in Management and Finance</strong>.
-- 🔭 I’m currently working on <strong>FinTech (NLP and DLT)</strong> and <strong>Algorithmic Trading</strong>
-- 🌱 I’m currently learning <strong>PyTorch</strong> and <strong>Hybrid Cloud</strong>
-- 🤔 My research interests are with <strong>Blockchain Systems, Natural Language Processing</strong>, etc
-- 🔍 I’m looking for career opportunities in the <strong>banking</strong> industry
-- 💬 Feel free to discuss with me about <strong>Privacy Engineering, Blockchain in Trade Finance and NLP</strong>
-- 👀 See my [Personal Portfolio](https://www.billpwchan.com) to get more info
+- 💼 I’m pursuing <strong>11th Science</strong>.
+- 🔭 I’m currently working on <strong>y Portfolio</strong> and <strong>[Instagram Page](https://instagram.com/dakshcodes)</strong>
+- 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>Building Projects</strong>
+- 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
+- 💬 Feel free to discuss with me about <strong>UI UX Design, Frontend Development & Instagram Posts</strong>
+- 👀 See my [Personal Portfolio](https://www.dakshjoshi.com) to get more info
 
 ### Tools I work upon : 🛠
 
-<img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">   <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">   
-<img src="https://img.shields.io/badge/tableau%20-%230D597F.svg?&style=for-the-badge&logo=tableau&logoColor=white">   <img src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">   <img src="https://img.shields.io/badge/neo4j%20-%23008CC1.svg?&style=for-the-badge&logo=neo4j&logoColor=white">   <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/React%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%0AA1DD">
 
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=billpwchan&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
