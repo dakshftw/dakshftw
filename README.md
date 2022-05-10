@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Bill Chan😉, technology consultant 👨🏻‍💻 from Hong Kong. I'm an open-source profession and mostly develop in Python 🐍.
+I'm Daksh Joshi😉, Web Developer 👨🏻‍💻 from India. I'm an UI Designer and mostly like Frontend Development.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Web+enthusiast ;Javascript+developer;Passionate+about+Video+Editing+&+Designing;User+Interface+Designer;Tech+Entrepreneur)](https://git.io/typing-svg)
 
 ### How to reach me: 
-<a href="mailto: billpwchan@hotmail.com">
-<img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/billpwchan/">   <img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/billpwchan1998/"><img src="https://img.shields.io/badge/billpwchan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.billpwchan.com/"><img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto: dakshcoodes@gmail.com">
+<img src="https://img.shields.io/badge/-dakshcoodes%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/dakshcodes/">   <img src="https://img.shields.io/badge/@dakshcodes_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  </a>  <a  href="https://www.dakshcodes.com/"><img src="https://img.shields.io/badge/dakshjoshi.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
