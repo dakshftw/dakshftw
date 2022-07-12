@@ -11,16 +11,15 @@ Web enthusiast, Javascript developer, Passionate about Video Editing & Designing
 
 ### Current Status Quo:
 
-- 💼 I’m pursuing <strong>11th Science</strong>.
-- 🔭 I’m currently working on <strong>y Portfolio</strong> and <strong>[Instagram Page](https://instagram.com/dakshcodes)</strong>
-- 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>Building Projects</strong>
-- 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
-- 💬 Feel free to discuss with me about <strong>UI UX Design, Frontend Development & Instagram Posts</strong>
+- 💻 I’m pursuing <strong>Diploma in Computer Science - 1st Year</strong>.
+- ✅ 35K+ Followers on <strong>[Instagram](https://instagram.com/CodingHashira)</strong>
+- 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>MERN Sack</strong>
+- 💜 Place where I share Projects & Guidance [CodingHashira.com](https://codinghashira.com)
 - 👀 See my [Personal Portfolio](https://www.dakshjoshi.com) to get more info
 
-### Tools I work upon : 🛠
+### Tools I work with : 🛠
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/React%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%0AA1DD">  <img src="https://img.shields.io/badge/Wordpress%20-%23323330.svg?&style=for-the-badge&logo=wordpress&logoColor=%2155CD">  <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/AdobeXD%20-%23323330.svg?&style=for-the-badge&logo=adobexd&logoColor=%0AA1DD">  <img src="https://img.shields.io/badge/Figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=%0AA1DD"> <img src="https://img.shields.io/badge/Notion%20-%23323330.svg?&style=for-the-badge&logo=notion&logoColor=%0AA1DD">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img src="https://img.shields.io/badge/React%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%0AA1DD">  <img src="https://img.shields.io/badge/Wordpress%20-%23323330.svg?&style=for-the-badge&logo=wordpress&logoColor=%2155CD"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/AdobeXD%20-%23323330.svg?&style=for-the-badge&logo=adobexd&logoColor=%0AA1DD">  <img src="https://img.shields.io/badge/Figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=%0AA1DD"> <img src="https://img.shields.io/badge/Notion%20-%23323330.svg?&style=for-the-badge&logo=notion&logoColor=%0AA1DD">
 
 
 ### GitHub Highlights: :blossom:
