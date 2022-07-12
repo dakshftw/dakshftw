@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Daksh Joshi😉, Web Developer 👨🏻‍💻 from India. I'm an UI Designer and mostly like Frontend Development.
+I'm Daksh Joshi ⭐, Website Developer 💻 from India. I'm a Frontend Development & also know UI Designing.
 
 ### Little roles about me.
 Web enthusiast, Javascript developer, Passionate about Video Editing & Designing, User Interface Designer & Tech Entrepreneur
