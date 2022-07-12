@@ -9,7 +9,7 @@ Web enthusiast, Javascript developer, Passionate about Video Editing & Designing
 <a href="mailto: dakshcoodes@gmail.com">
 <img src="https://img.shields.io/badge/-dakshcoodes%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/dakshcodes/">   <img src="https://img.shields.io/badge/@dakshcodes_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  </a>  <a  href="https://www.dakshjoshi.com/"><img src="https://img.shields.io/badge/dakshjoshi.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
-### Current Status Quo:
+### Current Status:
 
 - 💻 I’m pursuing <strong>Diploma in Computer Science - 1st Year</strong>.
 - ✅ 35K+ Followers on <strong>[Instagram](https://instagram.com/CodingHashira)</strong>
