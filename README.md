@@ -6,7 +6,7 @@ I'm Daksh Joshi ⭐, Website Developer 💻 from India. I'm a Frontend Developme
 Web enthusiast, Javascript developer, Passionate about Video Editing & Designing, User Interface Designer & Tech Entrepreneur
 
 ### How to reach me: 
-<a  href="https://www.instagram.com/codinghashira/">   <img src="https://img.shields.io/badge/@dakshcodes_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  </a>  <a  href="https://www.dakshjoshi.com/"><img src="https://img.shields.io/badge/dakshjoshi.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a  href="https://www.instagram.com/codinghashira/">   <img src="https://img.shields.io/badge/@codinghashira_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  </a>  <a  href="https://www.dakshjoshi.com/"><img src="https://img.shields.io/badge/dakshjoshi.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status:
 
